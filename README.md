@@ -33,3 +33,7 @@
 #### 2.电影票房与电影脸书粉丝数相关性
 #### 3.电影票房与片长相关性
 ![](figs/factors_affecting_box_office.png)
+
+## 参考文献
+[blog1](https://www.jianshu.com/p/72eb16739fc5)
+[blog2](https://www.jianshu.com/p/a1fee4b3b5b1?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)

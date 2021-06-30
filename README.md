@@ -9,15 +9,15 @@
 为了简化工作量，将缺失值直接干掉，简单粗暴。原数据4937条，处理后3670条。
 ## 数据分析
 ### 电影情节关键字词云
-
+![](figs/keywords.png)
 ### 根据电影年份绘制直方图
-
+![](figs/movie_released.png)
 ### 根据电影类型统计数据作图
-
+![](figs/genre_by_year.png)
 ### 电影类型数量分布直方图
-
+![](figs/genre_counts.png)
 ### 各类电影平均收益分布图
-
+![](figs/genre_profit.png)
 ### 电影产地分布图
 ![](figs/film_producing_areas.png)
 ### 受众喜好

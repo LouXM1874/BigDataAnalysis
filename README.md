@@ -22,8 +22,11 @@
 ![](figs/film_producing_areas.png)
 ### 受众喜好
 #### 1.电影类型与受欢迎程度
+![](figs/popularity_genre.png)
 #### 2.电影时长与受欢迎程度
+![](figs/popularity_duration.png)
 #### 3.电影评分与受欢迎程度
+![](figs/popularity_rating.png)
 
 ### 票房受影响因素
 #### 1.电影票房与评论人数相关性
